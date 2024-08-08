@@ -213,3 +213,10 @@ time (awk -F',' 'NR>1 {print $2}' people.csv | sort | uniq | wc -l)
 grep -c "Josiah" people.csv
 ```
 
+``P43-(I)``
+```bash
+find . -type f | wc -l
+```
+
+
+
