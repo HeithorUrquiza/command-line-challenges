@@ -19,3 +19,8 @@ ls
 ```bash
 mkdir foo
 ```
+
+``P4-(B)``
+```bash
+mkdir -p foo/bar/1/2/3
+```
