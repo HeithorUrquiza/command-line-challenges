@@ -59,3 +59,8 @@ rm empty.txt
 ```bash
 echo -n > empty.txt
 ```
+
+``P13-(B)``
+```bash
+cp hello.txt goodbye.txt
+```
