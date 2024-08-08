@@ -44,3 +44,8 @@ echo "Hello World" > hello.txt
 ```bash
 touch empty.txt
 ```
+
+``P10-(B)``
+```bash
+rm empty.txt
+```
