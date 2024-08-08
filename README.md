@@ -9,3 +9,8 @@ tar -xvzf challenges.tar.gz
 ```bash
 cd challenges
 ```
+
+``P3-(B)``
+```bash
+ls
+```
