@@ -197,4 +197,8 @@ cut -d',' -f2 people.csv | sort | uniq | wc -l
 tail -n +2 people.csv | cut -d',' -f2 | sort | uniq | wc -l
 ```
 
+``P40-(A)``
+```bash
+awk -F',' 'NR>1 {print $2}' people.csv | sort | uniq | wc -l
+```
 
