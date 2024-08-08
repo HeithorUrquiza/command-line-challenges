@@ -126,3 +126,8 @@ date
 ```bash
 ps aux
 ```
+
+``P26-(B)``
+```bash
+nproc
+```
