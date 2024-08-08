@@ -34,3 +34,8 @@ rm -r foo
 ```bash
 echo "Hello world"
 ```
+
+``P8-(B)``
+```bash
+echo "Hello World" > hello.txt
+```
