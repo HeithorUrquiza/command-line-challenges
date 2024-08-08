@@ -202,3 +202,9 @@ tail -n +2 people.csv | cut -d',' -f2 | sort | uniq | wc -l
 awk -F',' 'NR>1 {print $2}' people.csv | sort | uniq | wc -l
 ```
 
+``P40-(A)``
+```bash
+time (cut -d',' -f2 people.csv | tail -n +2 | sort | uniq | wc -l)
+time (awk -F',' 'NR>1 {print $2}' people.csv | sort | uniq | wc -l)
+```
+
