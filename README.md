@@ -105,3 +105,9 @@ echo "Some text" >> restricted.txt
 chmod +x challenge_20
 ./challenge_20
 ```
+
+``P22-(B)``
+```bash
+gcc compile_me.c -o compile_me
+./compile_me
+```
