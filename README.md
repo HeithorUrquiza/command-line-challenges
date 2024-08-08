@@ -99,3 +99,9 @@ echo "Some text" >> restricted.txt
 ```bash
 ./hello_executable
 ```
+
+``P21-(B)``
+```bash
+chmod +x challenge_20
+./challenge_20
+```
