@@ -191,3 +191,10 @@ cut -d',' -f2 people.csv
 ```bash
 cut -d',' -f2 people.csv | sort | uniq | wc -l
 ```
+
+``P39-(A)``
+```bash
+tail -n +2 people.csv | cut -d',' -f2 | sort | uniq | wc -l
+```
+
+
