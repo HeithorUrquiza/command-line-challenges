@@ -151,3 +151,8 @@ head -n 25 people.csv
 ```bash
 tail -n 25 people.csv
 ```
+
+``P31-(I)``
+```bash
+diff greeting1.txt greeting2.txt
+```
