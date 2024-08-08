@@ -49,3 +49,8 @@ touch empty.txt
 ```bash
 rm empty.txt
 ```
+
+``P11-(I)``
+```bash
+> empty.txt
+```
