@@ -29,3 +29,8 @@ mkdir -p foo/bar/1/2/3
 ```bash
 rm -r foo
 ```
+
+``P7-(B)``
+```bash
+echo "Hello world"
+```
