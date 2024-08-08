@@ -186,3 +186,8 @@ tac README.txt
 ```bash
 cut -d',' -f2 people.csv
 ```
+
+``P38-(A)``
+```bash
+cut -d',' -f2 people.csv | sort | uniq | wc -l
+```
