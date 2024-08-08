@@ -137,8 +137,12 @@ nproc
 uname -r
 ```
 
-``P27-(B)``
+``P28-(B)``
 ```bash
 grep -r "You found the needle in the haystack!" bunch_of_files/
 ```
 
+``P29-(B)``
+```bash
+head -n 25 people.csv
+```
