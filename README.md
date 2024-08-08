@@ -84,3 +84,8 @@ cat hello.txt hello_copy.txt > 2_hellos.txt
 ```bash
 pwd
 ```
+
+``P18-(B)``
+```bash
+ls -l
+```
