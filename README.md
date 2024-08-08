@@ -111,3 +111,10 @@ chmod +x challenge_20
 gcc compile_me.c -o compile_me
 ./compile_me
 ```
+
+``P23-(A)``
+```bash
+./redirect > output.txt
+```
+
+
