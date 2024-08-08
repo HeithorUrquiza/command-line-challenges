@@ -64,3 +64,8 @@ echo -n > empty.txt
 ```bash
 cp hello.txt goodbye.txt
 ```
+
+``P14-(B)``
+```bash
+mv goodbye.txt hello_copy.txt
+```
