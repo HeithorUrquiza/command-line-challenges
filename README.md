@@ -228,3 +228,8 @@ find . -type d | wc -l
 rm *deleteme*
 ```
 
+``P46-(I)``
+```bash
+sed -i 's/You found the needle in the haystack!/The needle has been removed./g' bunch_of_files/file719.rand
+```
+
