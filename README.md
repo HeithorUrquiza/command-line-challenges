@@ -177,3 +177,7 @@ dd if=/dev/urandom of=random_file bs=1M count=2
 wc -l README.txt
 ```
 
+``P36-(B)``
+```bash
+tac README.txt
+```
