@@ -233,3 +233,8 @@ rm *deleteme*
 sed -i 's/You found the needle in the haystack!/The needle has been removed./g' bunch_of_files/file719.rand
 ```
 
+``P47-(A)``
+```bash
+tr ',' '|' < people.csv > people_pipe.csv
+```
+
