@@ -218,5 +218,9 @@ grep -c "Josiah" people.csv
 find . -type f | wc -l
 ```
 
+``P44-(I)``
+```bash
+find . -type d | wc -l
+```
 
 
