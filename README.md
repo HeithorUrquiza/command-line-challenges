@@ -136,3 +136,9 @@ nproc
 ```bash
 uname -r
 ```
+
+``P27-(B)``
+```bash
+grep -r "You found the needle in the haystack!" bunch_of_files/
+```
+
