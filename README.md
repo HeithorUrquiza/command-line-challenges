@@ -95,3 +95,7 @@ ls -l
 echo "Some text" >> restricted.txt
 ```
 
+``P20-(B)``
+```bash
+./hello_executable
+```
