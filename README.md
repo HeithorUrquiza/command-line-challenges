@@ -20,7 +20,12 @@ ls
 mkdir foo
 ```
 
-``P4-(B)``
+``P5-(I)``
 ```bash
 mkdir -p foo/bar/1/2/3
+```
+
+``P6-(B)``
+```bash
+rm -r foo
 ```
