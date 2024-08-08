@@ -223,4 +223,8 @@ find . -type f | wc -l
 find . -type d | wc -l
 ```
 
+``P45-(I)``
+```bash
+rm *deleteme*
+```
 
