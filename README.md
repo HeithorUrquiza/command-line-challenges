@@ -54,3 +54,8 @@ rm empty.txt
 ```bash
 > empty.txt
 ```
+
+``P12-(I)``
+```bash
+echo -n > empty.txt
+```
