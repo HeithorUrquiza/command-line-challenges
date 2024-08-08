@@ -4,3 +4,8 @@
 ```bash
 tar -xvzf challenges.tar.gz
 ```
+
+``P2-(B)``
+```bash
+cd challenges
+```
