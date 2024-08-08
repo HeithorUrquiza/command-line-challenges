@@ -162,3 +162,8 @@ diff greeting1.txt greeting2.txt
 echo "Hello"; sleep 5; echo "world!"
 ```
 
+``P33-(I)``
+```bash
+dd if=/dev/zero of=zero_file bs=1M count=1
+```
+
