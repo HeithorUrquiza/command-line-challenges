@@ -69,3 +69,8 @@ cp hello.txt goodbye.txt
 ```bash
 mv goodbye.txt hello_copy.txt
 ```
+
+``P15-(I)``
+```bash
+diff hello.txt hello_copy.txt
+```
