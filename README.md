@@ -14,3 +14,8 @@ cd challenges
 ```bash
 ls
 ```
+
+``P4-(B)``
+```bash
+mkdir foo
+```
