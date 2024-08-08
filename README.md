@@ -167,3 +167,8 @@ echo "Hello"; sleep 5; echo "world!"
 dd if=/dev/zero of=zero_file bs=1M count=1
 ```
 
+``P34-(I)``
+```bash
+dd if=/dev/urandom of=random_file bs=1M count=2
+```
+
