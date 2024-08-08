@@ -172,3 +172,8 @@ dd if=/dev/zero of=zero_file bs=1M count=1
 dd if=/dev/urandom of=random_file bs=1M count=2
 ```
 
+``P35-(I)``
+```bash
+wc -l README.txt
+```
+
