@@ -117,4 +117,7 @@ gcc compile_me.c -o compile_me
 ./redirect > output.txt
 ```
 
-
+``P24-(B)``
+```bash
+date
+```
