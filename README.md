@@ -131,3 +131,8 @@ ps aux
 ```bash
 nproc
 ```
+
+``P27-(B)``
+```bash
+uname -r
+```
