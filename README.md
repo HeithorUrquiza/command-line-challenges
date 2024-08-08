@@ -242,3 +242,17 @@ tr ',' '|' < people.csv > people_pipe.csv
 ```bash
 find bunch_of_files/ -type f -exec cmp -s {} file001.rand \; -print
 ```
+
+``P49-(A)``
+```bash
+# 1-B
+touch supercalifragilisticexpialidocious.txt
+
+# 2-A
+rm -r *
+```
+
+``P50-(A)``
+```bash
+touch {a,b,c}-{1,2,3}.txt
+```
