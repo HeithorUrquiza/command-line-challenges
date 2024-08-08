@@ -89,3 +89,9 @@ pwd
 ```bash
 ls -l
 ```
+
+``P19-(B)``
+```bash
+echo "Some text" >> restricted.txt
+```
+
