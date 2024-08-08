@@ -39,3 +39,8 @@ echo "Hello world"
 ```bash
 echo "Hello World" > hello.txt
 ```
+
+``P9-(B)``
+```bash
+touch empty.txt
+```
